@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 using Singleton_Connection2.Model;
-
+//
 namespace Singleton_Connection2.Controler
 {
     internal class ConnectionControler
