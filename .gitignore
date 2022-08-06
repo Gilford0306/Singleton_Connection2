@@ -363,4 +363,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-*.json
+
+Singleton_Connection2/Connection_String/
