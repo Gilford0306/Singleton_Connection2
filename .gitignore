@@ -11,6 +11,10 @@
 *.sln.docstates
 *.json
 
+
+#Ignore connection string
+setting.json
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -362,3 +366,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+*.json
